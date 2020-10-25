@@ -18,7 +18,7 @@ pip install -e .
 ## Examples
 Examples are placed in the [`examples`](./examples) directory.
 
-<img width="250" align="middle" src="https://github.com/TheCamusean/ciflow/blob/iros/.assets/rshape.gif">
+<img width="250" align="middle" src="https://github.com/TheCamusean/iflow/blob/main/.assets/rshape.gif">
 
 You can run examples in
 
