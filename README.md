@@ -23,7 +23,7 @@ Examples are placed in the [`examples`](./examples) directory.
 You can run examples in
 
 #### Toy Dataset
-Limit Cycle with  IROS dataset [1]
+Limit Cycle with  IROS dataset [1] (results are saved in examples/experiments)
 
 ```
 python examples/train_iros.py 
