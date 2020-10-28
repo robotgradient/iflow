@@ -1,6 +1,6 @@
 # Pytorch Implementation of Stable Dynamic Flows (ImitationFlows)
 This library provides the models and the learning algorithms for learning deep stochastic stable dynamics by Invertible Flows.
-The model is composed by a latent stochastic stable dynamic system and an invertible flow. See [1](https://arxiv.org/abs/2010.13129\)
+The model is composed by a latent stochastic stable dynamic system and an invertible flow. See [1](https://arxiv.org/abs/2010.13129)
 
 The models and the learning algorithms are implemented in PyTorch.
 
