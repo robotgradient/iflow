@@ -1,6 +1,6 @@
 # Pytorch Implementation of Stable Dynamic Flows (ImitationFlows)
 This library provides the models and the learning algorithms for learning deep stochastic stable dynamics by Invertible Flows.
-The model is composed by a latent stochastic stable dynamic system and an invertible flow. See [1]
+The model is composed by a latent stochastic stable dynamic system and an invertible flow. See [1](https://arxiv.org/abs/2010.13129\)
 
 The models and the learning algorithms are implemented in PyTorch.
 
@@ -59,7 +59,7 @@ Neural ODE [5]. You can find our models in [`flows`](./iflow/model/flows).
 ### References
 [1] Julen Urain, Michele Ginesi, Davide Tateo, Jan Peters. "ImitationFlows: Learning Deep Stable Stochastic 
 Dynamic Systems by Normalizing Flows" *IEEE/RSJ International Conference on
-Intelligent Robots and Systems.* 2020.[ARXIV]
+Intelligent Robots and Systems.* 2020.[https://arxiv.org/abs/2010.13129](https://arxiv.org/abs/2010.13129)
 
 [2] Khansari-Zadeh, S. Mohammad, and Aude Billard. "Learning stable nonlinear dynamical 
 systems with gaussian mixture models." *IEEE Transactions on Robotics* 2011.
